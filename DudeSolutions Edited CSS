@@ -1,0 +1,182 @@
+<style type='text/css'>
+    /* primary font color no background */
+    #search_range,
+    #sidebar h3,
+    #view-search a.here,
+    #view-search #search-link,
+    #view-search span,
+    #view-search h3,
+    .adx-modal h2,
+    .date,
+    .list-event-locale a,
+    .list-event-preview h3 a,
+    .quick-link-container ul li a,
+    #theme-event-detail-view #event-details-main-content h2,
+    th,
+    a#back-to-events,
+    footer a, 
+    .core-title,
+    #search_results > div > h2,
+    div.event-pagination > ul > li > a, div.event-pagination > ul > li > a:visited, div.event-pagination > ul > li > a:focus,
+    a:any-link,
+    .core-inline-products-action a,
+    .event-detail-contact-person a,
+    .full-schedule-container h3 a,
+    .accordion-content > div,
+    .ep-popuptext > div {
+        color: #226598 !important;
+    }
+    
+    a:-webkit-any-link {
+        color: #226598 !important;
+    }
+    
+    /* secondary font color no background */
+    #view-search a,
+    #event-favorite-container #event-favorite,
+    .list-event-date,
+    .list-event-locale, .list-event-locale p a[itemprop="url"] span, .list-event-locale p,
+    .list-event-preview p,
+    .list-event-preview,
+    .event-detail-date p,
+    .event-detail-contact-person p,
+    #event-detail-copy,
+    .results-none p,
+    footer p,
+    .custom-field-label,
+    .event-attachments,
+    .core-inline-products tbody td,
+    .accordion-content > div.event-attachments,
+    .accordion-content > div.event-keywords,
+    .share-it-accordion-content h4,
+    #search-link em,
+    #month tbody .next .date, 
+    #month tbody .previous .date ,
+    .list2 .list-event:nth-of-type(even) .list-event-preview h4 a,
+    .list2 .list-event:nth-of-type(even) .quick-link-container ul li a,
+    .list2 .list-event:nth-of-type(even) .list-event-preview p {
+        color: #BCBEC0 !important;
+    }
+    
+    /* background */
+    body {
+        background: #FFFFFF !important;
+        background-repeat: unset !important;
+        background-position: unset !important;
+        background-attachment: fixed !important;
+        background-size: initial !important;
+    }
+    
+    /* no background */
+    .wrap {
+        /* background-color: #FFFFFF !important; */
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 10px;
+    }
+    
+    nav#main {
+        padding-left: 30px;
+        padding-right: 15px;
+    }
+    
+    /* nav#main, */
+    img#publicBody_imgLogoImage {
+        margin-left: -15px;
+        margin-top: -10px;
+        max-width: 75px;
+        max-height: 78px;
+        width: 100%;
+        height: auto;
+        padding: 15px;
+        }
+    
+    /*primary background color + primary font color */
+    .list2 #main-content h3,
+    .list2 #main-content h3 a,
+    #core_registration .core-button-submit,
+    #calendar-month,
+    .accordion-header,
+    .list-event-link a,
+    .wrapper-dropdown.active,
+    .core-button-submit,
+    div.event-pagination > ul > li > span, div.event-pagination > ul > li > a:hover,
+    .ep-popup .ep-adx-primary-action a,
+    #core_signin .core-button-container .core-button-submit,
+    #core_signup .core-button-container .core-button-submit,
+    #core_search .core-button-container .core-button-submit,
+    #core_search .core-button-container .core-button-clear,
+    #core_guest_registration a, #core_profile_registration a,
+    #core_order_confirmation .core-button-submit,
+    /* #top-main .wrap, */
+    #mobile-nav-link i {
+        background-color: #004B8C !important;
+        color: #FFFFFF !important;
+    }
+
+    #top-main .wrap {
+        background-color: #A7062E;
+    }
+    
+    /* Navigation Bar */
+    .ep-nav {
+        background-color: #004B8C !important;
+    }
+    .ep-nav .navitem {
+        background-color: #004B8C !important;
+        color: #FFFFFF !important;
+        padding: 25px;
+    }
+    .ep-nav .navitem-highlight {
+        background-color: #006DAD !important;
+        color: #FFFFFF !important;
+    }
+    .ep-nav .navitem:hover {
+        background-color: #006DAD !important;
+        color: #FFFFFF !important;
+    }
+    .ep-nav .navmenu {
+        background-color: #FFFFFF !important;
+        color: #0F2E46 !important;
+    }
+    .ep-nav .navmenu-highlight {
+        background-color: #004B8C !important;
+        color: #FFFFFF !important;
+    }
+    .ep-nav .navmenu:hover {
+        background-color: #004B8C !important;
+        color: #FFFFFF !important;
+    }
+    
+    /*banner background + banner font color*/
+    header,
+    nav#main,
+    nav#main ul li a,
+    #header-slogan {
+        background-color: #A7062E !important;
+        color: #FFFFFF !important;
+    }
+    
+    #calendar-month .month-jump,
+    #calendar-month h2,
+    .wrapper-dropdown.active #custom_viewby {
+        color: #FFFFFF !important;
+    }
+    
+    /*secondary background color + secondary font color */
+    .list2 .list-event:nth-of-type(odd),
+    #month thead,
+    #search-box {
+        background-color: #DCDCDC !important;
+    }
+    
+    .list2 .list-event:nth-of-type(odd) .list-event-preview h4 a,
+    .list2 .list-event:nth-of-type(odd) .quick-link-container ul li a,
+    .list2 .list-event:nth-of-type(odd) .list-event-preview p,
+    #month thead,
+    #month thead tr th,
+    #search-box label,
+    #search-box a {
+        color: #4D4D4D !important;
+    }
+    </style>
